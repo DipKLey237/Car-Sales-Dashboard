@@ -210,7 +210,7 @@ git clone https://github.com/[votre-username]/car-sales-dashboard.git
 
 ## 📚 Sources d'apprentissage
 
-- **Tutoriel YouTube** : [Car Sales Dashboard Tutorial](https://www.youtube.com/watch?v=uPkemycepLc)
+- **Tutoriel YouTube** : [Tutorial]
 - **Documentation Microsoft** : Power BI & DAX
 - **Communauté** : Power BI Community Forum
 
