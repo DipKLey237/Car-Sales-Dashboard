@@ -232,7 +232,7 @@ git clone https://github.com/[votre-username]/car-sales-dashboard.git
 **NGANGUE Dippah Olivier**  
 🎯 En reconversion vers Data Analyst  
 📧 [ndmandfred3@gmail.com]  
-💼 [LinkedIn](www.linkedin.com/in/ngangue-olivier)  
+💼 [LinkedIn](https://www.linkedin.com/in/ngangue-olivier)  
 🐙 [GitHub](https://github.com/DipKLey237/portfolio)
 
 ---
